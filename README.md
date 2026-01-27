@@ -2,7 +2,7 @@
 
 # Hey, I'm Matheus 👋
 
-**Software Engineer turned SRE** @ [Flutter Brazil](https://github.com/NSXBet)
+**Software Engineer** — Systems, ML, IoT, Infrastructure
 
 Computer Engineer from [UFC](https://www.ufc.br/) • Fortaleza, Brazil
 
@@ -16,27 +16,32 @@ Computer Engineer from [UFC](https://www.ufc.br/) • Fortaleza, Brazil
 
 ### 👨‍💻 What I Do
 
-Kubernetes, Terraform, AWS — the usual SRE stack. I love systems that scale, automating everything I can, and building things that break gracefully instead of spectacularly.
+I build things across the stack — from embedded systems and IoT devices to distributed backends and ML pipelines. Currently working as **SRE @ [Flutter Brazil](https://github.com/NSXBet)**, but my background spans the full spectrum of software engineering.
 
-Lately I've been working a lot with **AI, LLMs, and agents** — building tools that solve real problems.
+I care about systems that scale, code that's easy to delete, and solving real problems with the right tool — whether that's Kubernetes, a neural network, or a microcontroller.
 
-### 🔬 Research Background
+### 🔬 Research
 
-Former researcher at [Insight Lab](https://insightlab.ufc.br/) (UFC), working on Machine Learning, GANs, Edge Computing, and MLOps. Publications on [ResearchGate](https://www.researchgate.net/profile/Matheus-Monteiro-12).
+Former researcher at [Insight Lab](https://insightlab.ufc.br/) (UFC). Worked on **Machine Learning**, **GANs**, **Edge Computing**, and **MLOps**. Published work on [ResearchGate](https://www.researchgate.net/profile/Matheus-Monteiro-12).
 
 ### 🚀 Projects
 
-- 🔄 **[LoopForge](https://github.com/matheus3301/loopforge)** — Autonomous coding loops CLI. Orchestrate AI coding agents in iterative, PRD-driven development.
-- 🏠 **[Homelab](https://github.com/matheus3301/homelab)** — Production-grade GitOps homelab with Proxmox, Talos, Kubernetes, and Terraform. Where I break things on purpose so I don't break them accidentally at work.
+- 🔄 **[LoopForge](https://github.com/matheus3301/loopforge)** — Autonomous coding loops CLI. Orchestrate AI agents in iterative, PRD-driven development.
+- 🏠 **[Homelab](https://github.com/matheus3301/homelab)** — Production-grade GitOps homelab with Proxmox, Talos, Kubernetes, and Terraform.
 
 ### 🛠️ Stack
 
 ```
-SRE & DevOps    │  Kubernetes · Terraform · ArgoCD · Prometheus · Grafana
-Cloud           │  AWS · GCP · Cloudflare
-Languages       │  Go · Python · Ruby · TypeScript
-Interests       │  LLM Agents · System Architecture · IoT
+Systems & Backend   │  Go · Python · Ruby · TypeScript · C/C++
+ML & Data           │  PyTorch · TensorFlow · Pandas · MLOps
+IoT & Embedded      │  ESP32 · Microcontrollers · MQTT · Edge Computing
+Infrastructure      │  Kubernetes · Terraform · AWS · GCP · ArgoCD
+Observability       │  Prometheus · Grafana · OpenTelemetry
 ```
+
+### 🧠 Interests
+
+LLM Agents • Distributed Systems • System Architecture • AI/ML • IoT • Music Production
 
 ### 📝 Blog
 
