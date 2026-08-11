@@ -27,7 +27,7 @@ Former researcher at [Insight Lab](https://insightlab.ufc.br/) (UFC). Worked on 
 ### 🚀 Projects
 
 - 📱 **[Herdr Phone](https://github.com/matheus3301/herdr-phone)** — Drive the [Herdr](https://herdr.dev) session on your Mac from a phone. Go relay with an embedded PWA, reached through a Cloudflare Tunnel with Access at the edge.
-- 🃏 **[No Thanks Web](https://github.com/matheus3301/no-thanks-web)** — A phone-friendly multiplayer card game for the local network: create a table, share a QR code, and play together in real time.
+- 🃏 **[No Thanks](https://github.com/matheus3301/no-thanks)** — A phone-friendly multiplayer card game for the local network: create a table, share a QR code, and play together in real time.
 - 🎫 **[Herdr Shortcut](https://github.com/matheus3301/herdr-shortcut)** — Herdr plugin. Pick a Shortcut story in a fast terminal UI, then launch Claude Code, Codex, or any harness Herdr reports in a new tab.
 - 💬 **[mcp-slack](https://github.com/matheus3301/mcp-slack)** — Read-only Slack MCP server in Go. Three tools, a channel allowlist, and no write path anywhere in the code.
 - 🔄 **[LoopForge](https://github.com/matheus3301/loopforge)** — Autonomous coding loops CLI. Orchestrate AI agents in iterative, PRD-driven development.
