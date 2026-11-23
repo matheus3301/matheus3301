@@ -2,7 +2,7 @@
 
 **Applied AI & Machine Learning · Product & Platform Engineering**
 
-I build products and the systems that run them. I focus on applying AI and machine learning to business problems and improving how teams work. My background spans software engineering, machine learning research at UFC, and production infrastructure. I'm currently a Site Reliability Engineer at Flutter Brazil.
+I build products and the systems that run them. I focus on applying AI and machine learning to business problems and improving how teams work. My background spans software engineering, machine learning, and production infrastructure. I'm currently a Site Reliability Engineer at Flutter Brazil.
 
 [Website](https://mmonteiro.dev/) · [LinkedIn](https://www.linkedin.com/in/matheusrochamonteiro/)
 
