@@ -1,58 +1,20 @@
-<div align="center">
+# Hi, I'm Matheus Monteiro
 
-# Hey, I'm Matheus 👋
+I build products and the systems that run them. I work across product and platform, from figuring out what people need to shipping software and making it easier to operate. At Flutter Brazil, I work as a Site Reliability Engineer on infrastructure, automation, and production reliability.
 
-**Software Engineer** — Systems, ML, IoT, Infrastructure
+[Website](https://mmonteiro.dev/) · [LinkedIn](https://www.linkedin.com/in/matheusrochamonteiro/)
 
-Computer Engineer from [UFC](https://www.ufc.br/) • Fortaleza, Brazil
+## Selected work
 
-[![Blog](https://img.shields.io/badge/mmonteiro.dev-000?style=for-the-badge&logo=ghost&logoColor=white)](https://mmonteiro.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/matheusrochamonteiro)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/mmonteirodev)
+- [KB](https://github.com/matheus3301/kb) gives people and AI agents a shared knowledge base in local Markdown files. The CLI supports revision-checked edits and recoverable transactions. [Interactive demo](https://kb.mmonteiro.dev/)
+- [Homelab](https://github.com/matheus3301/homelab) is where I build and operate a GitOps platform on Proxmox, Talos, and Kubernetes. I use Terraform for provisioning and Argo CD for deployments. [Architecture write-up](https://mmonteiro.dev/posts/production-grade-homelab-proxmox-talos-kubernetes-gitops/)
+- [Herdr Phone](https://github.com/matheus3301/herdr-phone) lets you supervise coding agents running on a Mac from your phone. A Go relay serves the React app and verifies Cloudflare Access tokens at the origin. [Architecture](https://github.com/matheus3301/herdr-phone#architecture)
+- [mcp-slack](https://github.com/matheus3301/mcp-slack) is a Slack MCP server for reading channels and threads, with opt-in write capabilities and scoped permissions. [Releases](https://github.com/matheus3301/mcp-slack/releases)
+- [Chocolate Studio](https://github.com/matheus3301/chocolate-studio) is a browser editor for a MIDI foot controller. I researched the protocol and verified configuration reads, writes, and restoration on the hardware. [Try the editor](https://chocolate-studio.mmonteiro.dev/)
 
-</div>
+## Open source, writing, and research
 
----
+- Added [Crossplane ProviderConfig schemas](https://github.com/datreeio/CRDs-catalog/pull/968) to Datree's CRDs Catalog.
+- Wrote about [lesser-known Istio features](https://mmonteiro.dev/posts/istio-beyond-basics/) for operating Kubernetes services.
 
-### 👨‍💻 What I Do
-
-I build things across the stack — from embedded systems and IoT devices to distributed backends and ML pipelines. Currently working as **SRE @ [Flutter Brazil](https://github.com/NSXBet)**, but my background spans the full spectrum of software engineering.
-
-I care about systems that scale, code that's easy to delete, and solving real problems with the right tool — whether that's Kubernetes, a neural network, or a microcontroller.
-
-### 🔬 Research
-
-Former researcher at [Insight Lab](https://insightlab.ufc.br/) (UFC). Worked on **Machine Learning**, **GANs**, **Edge Computing**, and **MLOps**. Published work on [ResearchGate](https://www.researchgate.net/profile/Matheus-Monteiro-12).
-
-### 🚀 Projects
-
-- 📱 **[Herdr Phone](https://github.com/matheus3301/herdr-phone)** — Drive the [Herdr](https://herdr.dev) session on your Mac from a phone. Go relay with an embedded PWA, reached through a Cloudflare Tunnel with Access at the edge.
-- 🃏 **[No Thanks](https://github.com/matheus3301/no-thanks)** — A phone-friendly multiplayer card game for the local network: create a table, share a QR code, and play together in real time.
-- 🎫 **[Herdr Shortcut](https://github.com/matheus3301/herdr-shortcut)** — Herdr plugin. Pick a Shortcut story in a fast terminal UI, then launch Claude Code, Codex, or any harness Herdr reports in a new tab.
-- 💬 **[mcp-slack](https://github.com/matheus3301/mcp-slack)** — Read-only Slack MCP server in Go. Three tools, a channel allowlist, and no write path anywhere in the code.
-- 🔄 **[LoopForge](https://github.com/matheus3301/loopforge)** — Autonomous coding loops CLI. Orchestrate AI agents in iterative, PRD-driven development.
-- 🏠 **[Homelab](https://github.com/matheus3301/homelab)** — Production-grade GitOps homelab with Proxmox, Talos, Kubernetes, and Terraform.
-
-### 🛠️ Stack
-
-```
-Systems & Backend   │  Go · Python · Ruby · TypeScript · C/C++
-ML & Data           │  PyTorch · TensorFlow · Pandas · MLOps
-IoT & Embedded      │  ESP32 · Microcontrollers · MQTT · Edge Computing
-Infrastructure      │  Kubernetes · Terraform · AWS · GCP · ArgoCD
-Observability       │  Prometheus · Grafana · OpenTelemetry
-```
-
-### 🧠 Interests
-
-LLM Agents • Distributed Systems • System Architecture • AI/ML • IoT • Music Production
-
-### 📝 Blog
-
-I write about software engineering, infrastructure, and architecture at **[mmonteiro.dev](https://mmonteiro.dev)**
-
-<div align="center">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=matheus3301&show_icons=true&theme=dracula&hide_border=true&count_private=true" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus3301&layout=compact&theme=dracula&hide_border=true&hide=html,css,jupyter%20notebook" height="150" />
-</div>
+I studied Computer Engineering at UFC and researched machine learning and edge computing at its Insight Lab. I'm based in Fortaleza, Brazil. [Publications](https://www.researchgate.net/profile/Matheus-Monteiro-12)
